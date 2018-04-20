@@ -1,0 +1,8 @@
+system
+user_guide
+.htaccess*
+license.txt
+readme.rst
+contributing.md
+application/config
+application/logs
